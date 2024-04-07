@@ -1,0 +1,10 @@
+f-1234567890, 2023-10-26, John Doe, 1234567890, 2023-11-10, Claim1_1234567890_MedicalReport.pdf, 1000.00, New, MyBank - Saving - 1234567890
+f-9876543456, 2024-02-14, Jane Smith, 0987654321, 2024-03-05, Claim2_0987654321_Prescription.pdf, 500.00, Processing, LocalCreditUnion - Checking - 9876543210
+f-0123456789, 2023-12-01, Michael Lee, 9876543210, 2024-01-15, Claim3_9876543210_Xray.pdf, 750.00, Done, InternationalBank - Savings - 0001234567
+f-2345678901, 2024-01-20, Sarah Jones, 1122334455, 2024-02-12, Claim4_1122334455_Dental.pdf, 250.00, New, MyBank - Checking - 1234567891
+f-5678901234, 2024-03-15, Alice Brown, 5432109876, 2024-04-02, Claim5_5432109876_Surgery.pdf, 1500.00, Processing, RegionalBank - Checking - 8765432109
+f-1011121314, 2024-01-05, David Miller, 7890123456, 2024-01-25, Claim6_7890123456_Consultation.pdf, 300.00, New, MyBank - Savings - 9876543210
+f-1516171819, 2024-02-02, Emily Garcia, 2345678901, 2024-02-22, Claim7_2345678901_TreatmentPlan.pdf, 800.00, Processing, LocalCreditUnion - Checking - 1234567898
+f-2021222324, 2024-03-01, William Johnson, 3456789012, 2024-03-20, Claim8_3456789012_LabResults.pdf, 400.00, Done, InternationalBank - Savings - 9087654321
+f-2526272829, 2024-03-25, Charles Davis, 4567890123, 2024-04-10, Claim9_4567890123_Prescription.pdf, 600.00, New, RegionalBank - Checking - 7654321098
+f-3031323334, 2024-04-01, Jennifer Hernandez, 5678901234, 2024-04-15, Claim10_5678901234_Surgery.pdf, 2000.00, Processing, MyBank - Checking - 1122334455
