@@ -1,0 +1,11 @@
+user-id,username,password,role
+u-12345,johndoe,secret123,admin
+u-67890,janesmith,securepass,user
+u-23456,alicebrown,mypassword,user
+u-90123,davidmiller,strongpass,user
+u-56789,emilygarcia,letmein123,user
+u-11234,williamjohnson,passw0rd,user
+u-78901,charlesdavis,reliablepass,user
+u-34567,jenniferhernandez,secure1234,user
+u-01234,michaelgarcia,secretpass1,user
+u-54321,sarahthompson,strongpass2,user
