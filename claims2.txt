@@ -1,0 +1,10 @@
+f-4321098765, 2024-02-20, Sarah Thompson, 1213141516, 2024-03-25, Claim11_1213141516_Prescription.pdf, 120.50, Processing, RegionalBank - Savings - 6543210987
+f-5678901234, 2024-04-10, William Brown, 1314151617, 2024-04-22, Claim12_1314151617_Consultation.pdf, 75.00, New, MyBank - Checking - 1000111122
+f-6910111213, 2024-03-22, David Williams, 1415161718, 2024-04-15, Claim13_1415161718_Xray.pdf, 150.00, Done, InternationalBank - Savings - 8901234567
+f-8234567890, 2024-04-15, Emily Miller, 1516171819, 2024-05-05, Claim14_1516171819_Bloodwork.pdf, 200.00, New, LocalCreditUnion - Checking - 7654321009
+f-9567890123, 2024-04-25, Michael Garcia, 1123456789, 2024-05-10, Claim15_1123456789_TreatmentPlan.pdf, 350.00, Processing, RegionalBank - Checking - 8765432190
+f-0123456789, 2024-05-01, Sarah Jones, 1122334455, 2024-05-17, Claim16_1122334455_Surgery.pdf, 800.00, New, MyBank - Checking - 1234567800
+f-1456789012, 2024-05-10, Charles Davis, 9876543210, 2024-05-20, Claim17_9876543210_Consultation.pdf, 100.00, Processing, InternationalBank - Savings - 0098765432
+f-2789012345, 2024-05-15, Jennifer Hernandez, 10987654321, 2024-05-25, Claim18_10987654321_Prescription.pdf, 90.00, New, LocalCreditUnion - Checking - 1234567811
+f-4012345678, 2024-05-20, Michael Garcia, 1123456789, 2024-05-30, Claim19_1123456789_LabResults.pdf, 175.00, Processing, RegionalBank - Checking - 9876543201
+f-5345678901, 2024-05-25, Sarah Thompson, 1213141516, 2024-06-05, Claim20_1213141516_Surgery.pdf, 1200.00, New, MyBank - Checking - 0987654321
