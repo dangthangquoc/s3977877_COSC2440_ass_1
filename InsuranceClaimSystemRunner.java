@@ -1,3 +1,6 @@
+/**
+ * Dang Quoc Thang - s3977877
+ */
 import java.io.IOException;
 import java.text.ParseException;
 

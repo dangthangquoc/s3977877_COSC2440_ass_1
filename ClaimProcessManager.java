@@ -1,3 +1,6 @@
+/**
+ * Dang Quoc Thang - s3977877
+ */
 import java.util.List;
 
 public interface ClaimProcessManager {

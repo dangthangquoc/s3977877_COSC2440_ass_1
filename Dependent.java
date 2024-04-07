@@ -1,3 +1,6 @@
+/**
+ * Dang Quoc Thang - s3977877
+ */
 public abstract class Dependent extends Customer {
 
     public Dependent(String id, String fullName, InsuranceCard insuranceCard) {

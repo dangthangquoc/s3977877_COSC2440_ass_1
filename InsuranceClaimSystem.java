@@ -1,3 +1,6 @@
+/**
+ * Dang Quoc Thang - s3977877
+ */
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
